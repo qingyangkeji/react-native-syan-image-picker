@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.syan.imagepicker;
 
 import android.app.Activity;
 import android.content.Intent;
